@@ -2,7 +2,7 @@
 
 > _As I go through and learn, I will be adding scripts to this repo._
 
-- [x] Compile from command line
+- [x] Compile from command line (.bat file)
   - [ ] document it!
 - [ ] Compile from VS Code
 - [ ] Display a message on game start (static English string)
