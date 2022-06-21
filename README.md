@@ -11,7 +11,9 @@
 - [ ] Use a [Hook Script][]
 - [ ] Use [Arrays][] with `foreach`
 - [ ] Use [Maps][Arrays] with `foreach`
-- [ ] Add Character Dialogue
+- [ ] Add Character Dialogue (via dialogue system)
+- [ ] Add Character dialogue (over the character's head in game)
+- [ ] Ensure bartering with critter OK
 - [ ] Add adjacent cells
 - [ ] Add a way for the player to get to your cell without it being the starting cell (teleport or add to world map)
 - [ ] Setup Mapper with MO2 so .map go into my mod's folder & MO2 to run game with MOD's (a) scripts incl .lst update (b) maps (something to try)
