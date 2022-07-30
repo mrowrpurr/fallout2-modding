@@ -45,6 +45,13 @@
 
 # Modding Tools
 
+## 7-Zip
+
+> _This is a general purpose tool, but you'll need it to mod Fallout 2!_
+
+- [Homepage](https://www.7-zip.org/)
+- [Download Links](https://www.7-zip.org/download.html)
+
 ## sfall
 
 - [Homepage](https://sourceforge.net/projects/sfall/)
