@@ -28,6 +28,11 @@
 - [No Mutants Allowed - Discord](https://www.nma-fallout.com/threads/brand-spanking-new-nma-discord-server-chat.212525/)
 - [Nexus Mods - Fallout 2](https://www.nexusmods.com/fallout2)
 
+# Modding Guides
+
+- [Femic Fallout 2 Modding Guide](https://f3mic.github.io/index.html)
+- [Fallout 1 & 2 reversing and modding resource](https://fodev.net/files/fo2/)
+
 # Modding Tools
 
 ## sfall
@@ -46,11 +51,44 @@
 
 ## BIS Mapper
 
-- [Homepage](https://www.nma-fallout.com/resources/bis-mapper.55/)
-- [Direct Download Link](https://www.nma-fallout.com/resources/bis-mapper.55/download?version=57)
+- [Homepage](https://www.nma-fallout.com/resources/bis-mapper.55/) _with latest download link_
+
+## Proto Manager
+
+- [Homepage](https://www.nma-fallout.com/resources/fallout-protomanager.126/) _with latest download link_
+
+## F12SE Save Editor
+
+- [Homepage](https://sites.google.com/site/chulancheg/)
+- [Direct Download Link](https://sites.google.com/site/chulancheg/F12se.zip?attredirects=0)
+- [Forum Thread](https://www.nma-fallout.com/threads/fallout-2-savegame-editor.185130/)
+
+## Dat Explorer
+
+- [Homepage](https://www.nma-fallout.com/resources/dat-explorer-by-dims.56/) _with latest download link_
+
+## Frame Animator
+
+- [MediaFire Download](https://www.mediafire.com/file/5j459iahzyus5h4/Frame_Animator_v2.70.1_by_Jochua.zip/file)
+
+## Titanium FRM Browser
+
+- [Homepage](https://www.nma-fallout.com/resources/titanium-frm-browser-english.105/) _with latest download link_
+
+## FRM Workshop
+
+- [Homepage](https://www.nexusmods.com/fallout2/mods/19)
+
+## editory.zip (_containing `frm2gif` `gif2frm` `frm2bmp`_)
+
+- [Direct Download Link](http://madbrahmin.cz/download/fallout2/editors/editory.zip)
+- [Forum Thread](https://www.nma-fallout.com/threads/frm-converter.220348/#post-4428264)
+
+# Other Useful Tools
 
 ## LogExpert
 
+> Use for viewing/filtering/highlighting `debug.log`
+
 - [Homepage](https://github.com/zarunbal/LogExpert)
 - [Releases](https://github.com/zarunbal/LogExpert/releases)
-
