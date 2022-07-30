@@ -18,7 +18,6 @@
 ## Fallout et tu (_Fallout 1 in 2_)
 
 > Use this to run the Fallout 1 game content in the Fallout 2 engine.  
-> _You to make mods on top of the Fallout 1 content!_
 
 - [Website](https://github.com/rotators/Fo1in2)
 
