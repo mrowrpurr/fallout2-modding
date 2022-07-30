@@ -3,9 +3,9 @@
 > This repository has content and reference links for the
 > [`Fallout 2 Modding`](https://www.youtube.com/channel/UCaXcQAZOaLVuruo-5R4YmHA) YouTube series
 
-## Modding Tools (_download links_)
+# Modding Tools (_download links_)
 
-### sfall Script Editor
+## sfall Script Editor
 
 This is going to be the primary modding tool for most of you!
 
