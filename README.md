@@ -32,6 +32,17 @@
 - [Femic Fallout 2 Modding Guide](https://f3mic.github.io/index.html)
 - [Fallout 1 & 2 reversing and modding resource](https://fodev.net/files/fo2/)
 
+# Mods
+
+> These mods are downloaded / used in the YouTube series.
+>
+> There are many other Fallout 2 mods out there!
+
+## FO2Tweaks
+
+- [Homepage](https://github.com/BGforgeNet/FO2tweaks)
+- [Releases](https://github.com/BGforgeNet/FO2tweaks/releases)
+
 # Modding Tools
 
 ## sfall
