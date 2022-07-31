@@ -52,6 +52,14 @@
 - [Homepage](https://www.7-zip.org/)
 - [Download Links](https://www.7-zip.org/download.html)
 
+## Mod Organizer 2
+
+> _Using Mod Organizer 2 is completely optional_
+
+- [Homepage](https://www.modorganizer.org/)
+- [Releases](https://github.com/ModOrganizer2/modorganizer/releases)
+- [Fallout 2 Plugin](https://github.com/mrowrpurr/modorganizer-fallout-2/releases) ([Direct Link](https://github.com/mrowrpurr/modorganizer-fallout-2/releases/download/v1.0/game_fallout2.py))
+
 ## sfall
 
 - [Homepage](https://sourceforge.net/projects/sfall/)
