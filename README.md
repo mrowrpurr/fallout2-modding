@@ -124,3 +124,9 @@
 
 - [Homepage](https://github.com/zarunbal/LogExpert)
 - [Releases](https://github.com/zarunbal/LogExpert/releases)
+
+# Miscellaneous
+
+## `FormattedDebug.h` from the `debug_msg` episode
+
+Here is the [`FormattedDebug.h`](https://github.com/mrowrpurr/fo2-formatted-debug-and-display/blob/main/scripts/headers/FormattedDebug.h) as referenced in the `debug_msg` episode ([download link](https://raw.githubusercontent.com/mrowrpurr/fo2-formatted-debug-and-display/main/scripts/headers/FormattedDebug.h))
